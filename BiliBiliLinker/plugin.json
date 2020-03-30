@@ -1,0 +1,1 @@
+{"name":"BiliBiliLinker","version":"0.0.2","vcs":"https://github.com/Karlatemp/MoRain/tree/master/BiliBiliLinker","author":"Karlatemp","contact":"https://github.com/Karlatemp/","description":"发现bilibili链接时进行解析","usage":"匹配到bilibili链接的时候把具体信息发过去","commands":[],"core":"0.31.1","console":"0.4.0","changeLog":["0.0.1: 3/30: 插件完成"],"tags":["咨讯"]}
