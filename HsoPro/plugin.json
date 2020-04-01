@@ -1,1 +1,1 @@
-{"name":"HsoPro","version":"1.0.0","vcs":"","author":"m***e","contact":"QQ","description":"testA","usage":"testB","commands":["hso"],"core":"0.39.4","console":"0.4.1","changeLog":["1.0.0:发布","1.0.2:测试"],"tags":[]}
+{"name":"HsoPro","version":"0.0.2","vcs":"","author":"unknown","contact":"QQ群655057127","description":"支持群内看高清涩图, 允许配置每个群允许,不允许看普通/r18的图","usage":"/hso noraml授权一个群可以看普通涩图\n/hso r18授权一个群可以看r18涩图\n触发图片的词为[色图/不够色], 可以在配置文件中更改","commands":["hso"],"core":"0.39.4","console":"0.4.1","changeLog":["0.0.2:发布到插件中心"],"tags":["娱乐"]}
