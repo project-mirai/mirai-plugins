@@ -1,0 +1,1 @@
+{"name":"History","version":"0.1.3","vcs":"","author":"Logiase","contact":"","description":"记录本地聊天记录","usage":"直接拖入plugins，同时可为其他插件提供调用方法","commands":[""],"core":"0.31.4","console":"0.4.1","changeLog":["添加详细注释"],"tags":[]}
