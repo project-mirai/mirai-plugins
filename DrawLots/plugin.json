@@ -1,1 +1,1 @@
-{"name":"DrawLots","version":"0.1.0","vcs":"","author":"Sincky","contact":"QQ 893723237","description":"群内玄学抽取当天运势","usage":"群内发送【抽签】【解签】，即可玄学抽取当天运势","commands":[],"core":"0.30.0","console":"0.3.8","changeLog":["0.1.0: 3/30: 插件完成"]}
+{"name":"DrawLots","version":"1.0.1","vcs":"https://github.com/Sincky/mirai-plugin","author":"Sincky","contact":"","description":"群抽签解签插件，抽取当天玄学的运势，遇事不决，量子力学","usage":"群里发送【抽签】【解签】","commands":["DL"],"core":"0.31.4","console":"0.4.1","changeLog":["增加控制命令"],"tags":["娱乐"]}
