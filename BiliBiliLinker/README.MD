@@ -1,5 +1,5 @@
 # BiliBiliLinker
-<br>
+
 插件作者: ***Karlatemp***<br>
 最新版本: *1.0.3*<br>
 对应版本: core:```0.31.4```, console: ```0.3.9```<br>
