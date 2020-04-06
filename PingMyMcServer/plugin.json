@@ -1,0 +1,1 @@
+{"name":"PingMyMcServer","version":"0.0.1","vcs":"","author":"NaturalHG","contact":"","description":"在QQ中ping MCPE服务器","usage":"使用/mcserver add来增加一个服务器 任何人在群里使用ping 服务器名 即可\n返回的模版, API站可以在配置文件中更改","commands":["mcserver"],"core":"0.33.0","console":"0.4.5","changeLog":["发布"],"tags":["娱乐","信息"]}
