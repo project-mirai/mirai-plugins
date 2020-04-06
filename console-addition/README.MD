@@ -9,6 +9,6 @@ mirai-console的扩展插件，提供对console功能的增强
 ### 插件用法
 放入plugin文件夹，配置文件自动生成默认文件
 ### 涉及指令
-*login-md5*<br>*auto-logind*
+*login-md5*<br>*auto-login*
 ### 更新日志
 适配新core
