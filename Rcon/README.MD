@@ -4,7 +4,7 @@
 联系方式: QQ：2665337794<br>
 最新版本: *0.1.0*<br>
 对应版本: core:```0.33.0```, console: ```0.4.5```<br>
-项目地址: [https://github.com/smallXueTu](https://github.com/smallXueTu)<br>
+项目地址: [https://github.com/smallXueTu/Rcon](https://github.com/smallXueTu/Rcon)<br>
 ### 插件介绍
 对服务器发送命令，可在QQ群内或私聊执行服务器命令。
 ### 插件用法
