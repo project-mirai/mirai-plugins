@@ -1,0 +1,1 @@
+{"name":"KeywordReply","version":"0.0.1","vcs":"https://github.com/Anders233/mirai-plugin/tree/master/KeywordReply/src/main","author":"Anders","contact":"","description":"群内关键字回复，可选择精准问答或模糊问答, 分群配置","usage":"/keyword help","commands":["keyword"],"core":"0.35.0","console":"0.4.7","changeLog":["初次发布"],"tags":["实用","必备","娱乐"]}
