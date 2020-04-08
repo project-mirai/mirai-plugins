@@ -1,0 +1,1 @@
+{"name":"Runcode","version":"0.1.1","vcs":"","author":"Simper16","contact":"QQ203899225","description":"在线运行代码","usage":"run:\u003c语言\u003e\u003c:stdin\u003e\u003c:paste\u003e","commands":["run"],"core":"0.35.0","console":"0.4.6","changeLog":["1.解决PC端无法解析的问题","2.空代码返回提醒"],"tags":["code"]}
