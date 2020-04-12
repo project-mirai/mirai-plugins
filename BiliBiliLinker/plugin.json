@@ -1,1 +1,1 @@
-{"name":"BiliBiliLinker","version":"1.0.3","vcs":"","author":"Karlatemp","contact":"","description":"解析BiliBili视频信息","usage":"直接塞plugins","commands":["\u003cnone\u003e"],"core":"0.31.4","console":"0.3.9","changeLog":["卡片无法点"],"tags":[]}
+{"name":"BiliBiliLinker","version":"1.0.4","vcs":"https://github.com/Karlatemp/MoRain/tree/master/BiliBiliLinker/","author":"Karlatemp","contact":"karlatemp@vip.qq.com","description":"解析BiliBili视频信息","usage":"在群内发任意BiliBili链接","commands":[""],"core":"0.37.0","console":"0.4.8","changeLog":["**要求新版** 对新版Mirai-core的匹配"],"tags":["娱乐"]}
