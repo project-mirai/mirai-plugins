@@ -1,13 +1,15 @@
 # BiliBiliLinker
-
+```娱乐```<br>
 插件作者: ***Karlatemp***<br>
-最新版本: *1.0.3*<br>
-对应版本: core:```0.31.4```, console: ```0.3.9```<br>
+联系方式: karlatemp@vip.qq.com<br>
+最新版本: *1.0.4*<br>
+对应版本: core:```0.37.0```, console: ```0.4.8```<br>
+项目地址: [https://github.com/Karlatemp/MoRain/tree/master/BiliBiliLinker/](https://github.com/Karlatemp/MoRain/tree/master/BiliBiliLinker/)<br>
 ### 插件介绍
 解析BiliBili视频信息
 ### 插件用法
-直接塞plugins
+在群内发任意BiliBili链接
 ### 涉及指令
-*/<none>*
+*/*
 ### 更新日志
-卡片无法点
+**要求新版** 对新版Mirai-core的匹配
