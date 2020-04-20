@@ -2,8 +2,8 @@
 ```官方```<br>
 插件作者: ***PeratX***<br>
 联系方式: peratx@itxtech.org<br>
-最新版本: *1.2.0*<br>
-对应版本: core:```0.37.2```, console: ```0.4.9```<br>
+最新版本: *1.3.0*<br>
+对应版本: core:```0.37.4```, console: ```0.4.9```<br>
 项目地址: [https://github.com/iTXTech/mirai-native](https://github.com/iTXTech/mirai-native)<br>
 ### 插件介绍
 使酷Q的应用（插件）能在Mirai环境下运行, 仅支持win32位
@@ -12,4 +12,4 @@
 ### 涉及指令
 */npm*
 ### 更新日志
-升级Mirai Core 0.37.2<br>实现 MiraiNative::onReload() ，重载事件将重新加载所有Native插件和外部库<br>新增 Bot 被踢出事件<br>重新整理代码，使用 Kotlin 重写 Bridge
+删除 onReload，支持正确的启用停用逻辑<br>添加 [CQ:music,type=custom]<br>验证 Native插件 的所有API调用是否合法<br>更新目录结构，更加清晰
