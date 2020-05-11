@@ -1,0 +1,1 @@
+{"name":"SimHitokoto","version":"1.2.0","vcs":"https://github.com/ssyximmlove/Mirai-Plugin-Hitokoto","author":"Sam Song","contact":"ssyximmlove@gmail.com","description":"一个简单的一言插件，最大的特点就是只有一言","usage":"群内发送HitokotoInfo","commands":[""],"core":"1.0-RC","console":"1.1.0","changeLog":["第一次发布"],"tags":["hitokoto"]}
