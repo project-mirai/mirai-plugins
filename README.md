@@ -6,8 +6,6 @@
 ----
 
 [![Gitter](https://badges.gitter.im/mamoe/mirai.svg)](https://gitter.im/mamoe/mirai?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-[![Actions Status](https://github.com/mamoe/mirai/workflows/CI/badge.svg)](https://github.com/mamoe/mirai/actions)
-[![Download](https://api.bintray.com/packages/him188moe/mirai/mirai-core/images/download.svg)](https://bintray.com/him188moe/mirai/mirai-core/)  
 
 Mirai 是一个在全平台下运行，提供 QQ Android 和 TIM PC 协议支持的高效率机器人框架
 
@@ -19,3 +17,9 @@ Mirai 是一个在全平台下运行，提供 QQ Android 和 TIM PC 协议支持
 
 # mirai-plugins
 Mirai provided plugins
+
+本仓库为 [mirai-console](https://github.com/mamoe/mirai-console) 的插件列表，这些插件均由第三方开发者发布。
+
+mirai 不负责这些插件的审核或维护，因此，使用前请自行判断是否安全，遇到问题时请联系插件原作者。
+
+插件中心仍为实验性阶段，目前没有公开上传插件的方法。
