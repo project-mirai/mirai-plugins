@@ -1,0 +1,20 @@
+{
+    "name": "ImageCustom",
+    "version": "0.2",
+    "vcs": "https://github.com/fz6m/mirai-plugin",
+    "author": "fz6m",
+    "contact": "",
+    "description": "自定义表情包，沙雕图生产效率高",
+    "usage": "使用：xxx.jpg / 切换：img 表情包名",
+    "commands": [
+        "imgCustom", "biaoqing"
+    ],
+    "core": "1.0-RC",
+    "console": "0.5.1",
+    "changeLog": [
+        "自动化加载资源"
+    ],
+    "tags": [
+        "娱乐"
+    ]
+}
