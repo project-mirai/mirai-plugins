@@ -1,0 +1,1 @@
+{"name":"mirai-js","version":"1.0.0","vcs":"https://github.com/iTXTech/mirai-js","author":"PeratX","contact":"peratx@itxtech.org","description":"使用 JavaScript 编写 Mirai 插件并直接与其交互，全平台支持。","usage":"将 JS 插件放入 plugins/MiraiJs/plugins下","commands":["jpm"],"core":"1.0-RC2-1","console":"0.5.1","changeLog":["第一版发布"],"tags":["官方","脚本","JavaScript"]}
