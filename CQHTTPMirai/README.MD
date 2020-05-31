@@ -1,7 +1,7 @@
 # CQHTTPMirai
 ```cqhttp``` ```mirai-cq-adapter```<br>
 插件作者: ***yyuueexxiinngg***<br>
-最新版本: *0.1.2*<br>
+最新版本: *0.1.3*<br>
 对应版本: core:```1.0.0```, console: ```0.5.1```<br>
 项目地址: [https://github.com/yyuueexxiinngg/cqhttp-mirai](https://github.com/yyuueexxiinngg/cqhttp-mirai)<br>
 ### 插件介绍
@@ -11,4 +11,4 @@
 ### 涉及指令
 */*
 ### 更新日志
-1. 现在Websocket反向客户端默认为不启用<br>2. 添加支持: CQHTTP .handle_quick_operation 隐藏API
+- 修复数个api序列化返回值时发生错误导致无法返回数据<br>- GetFriendList<br>- GetGroupList<br>- GetGroupMemberList<br>- CanSendImage<br>- CanSendRecord<br>- 支持_async调用
