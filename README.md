@@ -23,3 +23,7 @@ Mirai provided plugins
 mirai 不负责这些插件的审核或维护，因此，使用前请自行判断是否安全，遇到问题时请联系插件原作者。
 
 插件中心仍为实验性阶段，目前没有公开上传插件的方法。
+
+# DEPRECATED
+
+此仓库已不再更新, 请查看 https://github.com/project-mirai/awesome-mirai
