@@ -1,0 +1,6 @@
+name: "Boastful"
+author: "expoli"
+version: "0.3.0"
+main: "tech.expoli.plugin.BoastfulMain"
+info: "^_^ 夸夸其谈，一个基于 mirai 开发的夸人插件 ^_^ Web: https://github.com/expoli/mirai-plugins-Boastful"
+depends: []
